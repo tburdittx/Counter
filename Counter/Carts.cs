@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Counter
 {
-    public class Carts
+    public class Carts:ICountable
     {
         public static int ContentsOfBoxOne { get; private set; }
         public static int ContentsOfBoxTwo { get; private set; }
