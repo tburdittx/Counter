@@ -44,7 +44,6 @@
   <ItemGroup>
     <Compile Include="Apples.cs" />
     <Compile Include="Carts.cs" />
-    <Compile Include="Counter.cs" />
     <Compile Include="Crates.cs" />
     <Compile Include="ICountable.cs" />
     <Compile Include="Program.cs" />

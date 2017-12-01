@@ -15,11 +15,6 @@ namespace Counter
         {
             var Apple = 1;
             return Apple;
-
-
-
-
-
         }
         public int List()
         {
@@ -30,9 +25,6 @@ namespace Counter
 
             Counter = fruit.Count();
             return Counter;
-
         }
-
-
     }
 }

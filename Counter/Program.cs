@@ -16,9 +16,6 @@ namespace Counter
             apple.List();
             box.Count();
 
-
-
-
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("Number of Apples: {0}", apple.List());
             Console.ResetColor();
