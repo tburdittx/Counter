@@ -5,3 +5,10 @@ C:\Work\FurtherCsharp\Counter\Counter\Counter\bin\Debug\Counter.exe
 C:\Work\FurtherCsharp\Counter\Counter\Counter\bin\Debug\Counter.pdb
 C:\Work\FurtherCsharp\Counter\Counter\Counter\obj\Debug\Counter.exe
 C:\Work\FurtherCsharp\Counter\Counter\Counter\obj\Debug\Counter.pdb
+C:\Work\FurtherCsharp\Counter\Counter\Newfolder\Counter\Counter\bin\Debug\Counter.exe.config
+C:\Work\FurtherCsharp\Counter\Counter\Newfolder\Counter\Counter\bin\Debug\Counter.exe
+C:\Work\FurtherCsharp\Counter\Counter\Newfolder\Counter\Counter\bin\Debug\Counter.pdb
+C:\Work\FurtherCsharp\Counter\Counter\Newfolder\Counter\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
+C:\Work\FurtherCsharp\Counter\Counter\Newfolder\Counter\Counter\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+C:\Work\FurtherCsharp\Counter\Counter\Newfolder\Counter\Counter\obj\Debug\Counter.exe
+C:\Work\FurtherCsharp\Counter\Counter\Newfolder\Counter\Counter\obj\Debug\Counter.pdb

@@ -26,7 +26,7 @@ namespace Counter
 
             Console.WriteLine();
             Console.WriteLine("Apple = {0}", apple.Count());
-            Console.ReadLine();
+            Console.WriteLine();
 
             cart.Crate();
         }
